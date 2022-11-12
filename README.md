@@ -8,7 +8,7 @@ The environment variables can be made available throughout entire workflow or to
 
 ```bash
 env: 
-    <env variable name>: <env variable name>
+    <env variable name>: <env variable value>
 ```
 If declared at workflow level, it is available across all jobs.
 
